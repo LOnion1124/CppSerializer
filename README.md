@@ -68,3 +68,7 @@ During testing, you should cover all the required types and options.
 [Bonus] Use binary-to-text encoding/decoding (base64) to implement a binary mode of XML serialization.
 
 [Bonus] Support the serialization of smart pointers, e.g., std::unique_ptr.
+
+## Dependences
+
+The tinyxml2 part depends on `tinyxml2.h` and `tinyxml2.cpp` from [tinyxml2](https://github.com/leethomason/tinyxml2).
